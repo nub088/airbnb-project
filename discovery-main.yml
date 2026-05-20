@@ -1,0 +1,989 @@
+- main [ref=e108]:
+  - generic [ref=e111]:
+    - generic [ref=e112]:
+      - generic [ref=e172]:
+        - generic [ref=e173]:
+          - 'button "Automatically Translated title: Green & Natural Apartment" [ref=e175] [cursor=pointer]':
+            - img [ref=e176]
+          - heading "Green & Natural Apartment" [level=1] [ref=e179]
+        - generic [ref=e181]:
+          - button "Share" [ref=e183] [cursor=pointer]:
+            - generic [ref=e184]:
+              - img [ref=e186]
+              - text: Share
+          - button "Add to wishlist" [ref=e189] [cursor=pointer]:
+            - generic [ref=e190]:
+              - img [ref=e192]
+              - text: Save
+      - generic [ref=e196]:
+        - generic [ref=e198]:
+          - button "Green & Natural Apartment image 1" [ref=e203] [cursor=pointer]:
+            - img [ref=e206]
+          - generic [ref=e208]:
+            - button "Green & Natural Apartment image 2" [ref=e212] [cursor=pointer]:
+              - img [ref=e215]
+            - button "Green & Natural Apartment image 3" [ref=e219] [cursor=pointer]:
+              - img [ref=e222]
+          - generic [ref=e224]:
+            - button "Green & Natural Apartment image 4" [ref=e228] [cursor=pointer]:
+              - img [ref=e231]
+            - button "Green & Natural Apartment image 5" [ref=e235] [cursor=pointer]:
+              - img [ref=e238]
+        - button "Show all photos" [ref=e240] [cursor=pointer]:
+          - generic [ref=e242]:
+            - img [ref=e243]
+            - generic [ref=e245]: Show all photos
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - generic [ref=e250]:
+          - heading "Entire rental unit in Valencia, Spain" [level=2] [ref=e252]
+          - list [ref=e254]:
+            - listitem [ref=e255]: 5 guests
+            - listitem [ref=e256]:
+              - generic [ref=e257]: ·
+              - text: 2 bedrooms
+            - listitem [ref=e258]:
+              - generic [ref=e259]: ·
+              - text: 3 beds
+            - listitem [ref=e260]:
+              - generic [ref=e261]: ·
+              - text: 1 bath
+        - button "Guest Favourite Listing. One of the most loved homes on Airbnb, according to guests Rated 4.9 out of 5 stars. 103 reviews" [ref=e266] [cursor=pointer]:
+          - generic [ref=e267]:
+            - generic [ref=e268]:
+              - img "Guest Favourite Listing." [ref=e269]:
+                - generic [ref=e270]:
+                  - img [ref=e272]
+                  - generic [ref=e283]: Guest favourite
+                  - img [ref=e285]
+              - generic [ref=e296]: One of the most loved homes on Airbnb, according to guests
+            - generic [ref=e297]:
+              - generic [ref=e298]: Rated 4.9 out of 5 stars.
+              - generic [ref=e299]: "4.9"
+              - generic [ref=e300]:
+                - img [ref=e302]
+                - img [ref=e304]
+                - img [ref=e306]
+                - img [ref=e308]
+                - img [ref=e310]
+            - generic [ref=e313]:
+              - generic [ref=e314]: 103 reviews
+              - generic [ref=e315]: "103"
+              - generic [ref=e316]: Reviews
+        - generic [ref=e321]:
+          - generic [ref=e322]:
+            - button "Ruben is a superhost. Learn more about Ruben." [ref=e323] [cursor=pointer]:
+              - img "Host profile picture" [ref=e325]:
+                - img [ref=e327]
+            - img [ref=e329]
+          - generic [ref=e332]:
+            - generic [ref=e333]: Hosted by Ruben
+            - list [ref=e335]:
+              - listitem [ref=e336]: Superhost
+              - listitem [ref=e337]:
+                - generic [ref=e338]: ·
+                - text: 3 years hosting
+        - generic [ref=e343]:
+          - heading "Listing highlights" [level=2] [ref=e345]
+          - generic [ref=e346]:
+            - generic [ref=e349]:
+              - img [ref=e351]
+              - generic [ref=e353]:
+                - heading "Self check-in" [level=3] [ref=e355]
+                - generic [ref=e356]: Check yourself in with the lockbox.
+            - generic [ref=e359]:
+              - img [ref=e361]
+              - generic [ref=e363]:
+                - heading "At-home coffee" [level=3] [ref=e365]
+                - generic [ref=e366]: Start your morning right with the espresso machine and drip coffee maker.
+            - generic [ref=e369]:
+              - img [ref=e371]
+              - generic [ref=e373]:
+                - heading "Ruben is a Superhost" [level=3] [ref=e375]
+                - generic [ref=e376]: Superhosts are experienced, highly rated hosts.
+        - generic [ref=e382]:
+          - text: Some info has been automatically translated.
+          - button "Show original" [ref=e383] [cursor=pointer]
+        - generic [ref=e386]:
+          - generic [ref=e390]:
+            - text: Accommodation located in the center with a BUS stop right outside the door. Enjoy a luxurious experience, Mediterranean decor and high ceilings with wooden beams typical of Valencian architecture. The apartment consists of
+            - text: A SEPARATE BEDROOM WITH A DOUBLE BED, A DOUBLE SOFA BED IN THE LIVING ROOM AND A SINGLE BED IN THE LIVING ROOM. In a unique location, a 10-minute walk from the CITY OF ARTS AND SCIENCES and the CIUDAD VELLA (old town), WE ARE WAITING FOR YOU!!
+            - text: The space
+            - text: In the accommodation you will find fresh water in the fridge, and you can make a coffee or an infusion if you feel like it. You'll also have beds made with fresh linens and towels as well. You'll have shower gel and shampoo, and some cleaning products in case you need them.
+            - text: Registration details
+            - text: Spain – National registration number
+            - text: ESFCTU000046052000470385000000000000000000VT-55249-V5
+            - text: Valencia – Regional registration number
+            - text: VT-55249-V
+          - button "Show more about this place" [ref=e392] [cursor=pointer]:
+            - generic [ref=e393]: Show more
+        - region "Where you'll sleep" [ref=e398]:
+          - generic [ref=e399]:
+            - generic [ref=e400]:
+              - heading "Where you'll sleep" [level=2] [ref=e404]
+              - generic [ref=e405]:
+                - generic [ref=e406]:
+                  - generic [ref=e407]: 1 of 2 pages
+                  - generic [ref=e408]: 1 / 2
+                - button "Previous" [disabled] [ref=e410]:
+                  - img [ref=e412]
+                - button "Next" [ref=e415] [cursor=pointer]:
+                  - img [ref=e417]
+            - list [ref=e420]:
+              - listitem [ref=e421]:
+                - button "Bedroom Bedroom 1 double bed" [ref=e424] [cursor=pointer]:
+                  - generic [ref=e425]:
+                    - img "Bedroom" [ref=e427]:
+                      - img [ref=e429]
+                    - generic [ref=e430]: Bedroom
+                    - generic [ref=e431]: 1 double bed
+              - listitem [ref=e432]:
+                - button "Living room 1 Living room 1 1 sofa bed" [ref=e435] [cursor=pointer]:
+                  - generic [ref=e436]:
+                    - img "Living room 1" [ref=e438]:
+                      - img [ref=e440]
+                    - generic [ref=e441]: Living room 1
+                    - generic [ref=e442]: 1 sofa bed
+              - listitem [ref=e443]:
+                - button "Living room 2 Living room 2 1 sofa bed" [ref=e446] [cursor=pointer]:
+                  - generic [ref=e447]:
+                    - img "Living room 2" [ref=e449]:
+                      - img [ref=e451]
+                    - generic [ref=e452]: Living room 2
+                    - generic [ref=e453]: 1 sofa bed
+        - generic [ref=e458]:
+          - heading "What this place offers" [level=2] [ref=e461]
+          - generic [ref=e462]:
+            - generic [ref=e464]:
+              - generic [ref=e465]: Kitchen
+              - img [ref=e467]
+            - generic [ref=e470]:
+              - generic [ref=e471]: Wifi
+              - img [ref=e473]
+            - generic [ref=e476]:
+              - generic [ref=e477]: Dedicated workspace
+              - img [ref=e479]
+            - generic [ref=e482]:
+              - generic [ref=e483]: Free street parking
+              - img [ref=e485]
+            - generic [ref=e488]:
+              - generic [ref=e489]: Pets allowed
+              - img [ref=e491]
+            - generic [ref=e494]:
+              - generic [ref=e495]: TV
+              - img [ref=e497]
+            - generic [ref=e500]:
+              - generic [ref=e501]: Washer
+              - img [ref=e503]
+            - generic [ref=e506]:
+              - generic [ref=e507]: Air conditioning
+              - img [ref=e509]
+            - generic [ref=e512]:
+              - generic [ref=e513]:
+                - generic [ref=e514]: "Unavailable: Carbon monoxide alarm"
+                - deletion [ref=e515]: Carbon monoxide alarm
+              - img [ref=e517]
+            - generic [ref=e520]:
+              - generic [ref=e521]:
+                - generic [ref=e522]: "Unavailable: Smoke alarm"
+                - deletion [ref=e523]: Smoke alarm
+              - img [ref=e525]
+          - button "Show all 55 amenities" [ref=e528] [cursor=pointer]:
+            - generic [ref=e529]: Show all 55 amenities
+        - region "Accessibility features" [ref=e534]:
+          - generic [ref=e535]:
+            - generic [ref=e536]:
+              - generic [ref=e537]:
+                - heading "Accessibility features" [level=2] [ref=e538]:
+                  - generic [ref=e539]: Accessibility features
+                - generic [ref=e540]: This info was provided by the Host and reviewed by Airbnb.
+              - generic [ref=e541]:
+                - generic [ref=e542]:
+                  - generic [ref=e543]: 1 of 2 pages
+                  - generic [ref=e544]: 1 / 2
+                - button "Previous" [disabled] [ref=e546]:
+                  - img [ref=e548]
+                - button "Next" [ref=e551] [cursor=pointer]:
+                  - img [ref=e553]
+            - list [ref=e556]:
+              - listitem [ref=e557]:
+                - button "Verified image Guest entrance and parking Disabled parking spot" [ref=e560] [cursor=pointer]:
+                  - generic [ref=e561]:
+                    - img "Verified image" [ref=e563]
+                    - generic [ref=e564]: Guest entrance and parking
+                    - generic [ref=e565]: Disabled parking spot
+              - listitem [ref=e566]:
+                - button "Verified image Guest entrance and parking Lit path to the guest entrance" [ref=e569] [cursor=pointer]:
+                  - generic [ref=e570]:
+                    - img "Verified image" [ref=e572]
+                    - generic [ref=e573]: Guest entrance and parking
+                    - generic [ref=e574]: Lit path to the guest entrance
+              - listitem [ref=e575]:
+                - button "Verified image Guest entrance and parking Guest entrance wider than 32 inches (81 centimetres)" [ref=e578] [cursor=pointer]:
+                  - generic [ref=e579]:
+                    - img "Verified image" [ref=e581]
+                    - generic [ref=e582]: Guest entrance and parking
+                    - generic [ref=e583]: Guest entrance wider than 32 inches (81 centimetres)
+          - button "Show all 3 features" [ref=e585] [cursor=pointer]:
+            - generic [ref=e586]: Show all 3 features
+        - generic [ref=e591]:
+          - generic [ref=e593]:
+            - heading "1 night in Valencia" [level=2] [ref=e596]
+            - generic [ref=e598]: May 27, 2026 - May 28, 2026
+          - generic [ref=e600]:
+            - generic [ref=e604]:
+              - list [ref=e606]:
+                - listitem [ref=e607]: S
+                - listitem [ref=e608]: M
+                - listitem [ref=e609]: T
+                - listitem [ref=e610]: W
+                - listitem [ref=e611]: T
+                - listitem [ref=e612]: F
+                - listitem [ref=e613]: S
+              - list [ref=e615]:
+                - listitem [ref=e616]: S
+                - listitem [ref=e617]: M
+                - listitem [ref=e618]: T
+                - listitem [ref=e619]: W
+                - listitem [ref=e620]: T
+                - listitem [ref=e621]: F
+                - listitem [ref=e622]: S
+              - application "Calendar" [ref=e623]:
+                - generic:
+                  - button "Move backward to switch to the previous month." [disabled] [ref=e625]:
+                    - img [ref=e627]
+                  - button "Move forward to switch to the next month." [ref=e630] [cursor=pointer]:
+                    - img [ref=e632]
+                - generic [ref=e635]:
+                  - generic [ref=e637]:
+                    - heading "May 2026" [level=3] [ref=e640]
+                    - button "1, Friday, May 2026. Past dates can’t be selected." [disabled] [ref=e641]:
+                      - generic [ref=e642]: "1"
+                    - button "2, Saturday, May 2026. Past dates can’t be selected." [disabled] [ref=e643]:
+                      - generic [ref=e644]: "2"
+                    - button "3, Sunday, May 2026. Past dates can’t be selected." [disabled] [ref=e645]:
+                      - generic [ref=e646]: "3"
+                    - button "4, Monday, May 2026. Past dates can’t be selected." [disabled] [ref=e647]:
+                      - generic [ref=e648]: "4"
+                    - button "5, Tuesday, May 2026. Past dates can’t be selected." [disabled] [ref=e649]:
+                      - generic [ref=e650]: "5"
+                    - button "6, Wednesday, May 2026. Past dates can’t be selected." [disabled] [ref=e651]:
+                      - generic [ref=e652]: "6"
+                    - button "7, Thursday, May 2026. Past dates can’t be selected." [disabled] [ref=e653]:
+                      - generic [ref=e654]: "7"
+                    - button "8, Friday, May 2026. Past dates can’t be selected." [disabled] [ref=e655]:
+                      - generic [ref=e656]: "8"
+                    - button "9, Saturday, May 2026. Past dates can’t be selected." [disabled] [ref=e657]:
+                      - generic [ref=e658]: "9"
+                    - button "10, Sunday, May 2026. Past dates can’t be selected." [disabled] [ref=e659]:
+                      - generic [ref=e660]: "10"
+                    - button "11, Monday, May 2026. Past dates can’t be selected." [disabled] [ref=e661]:
+                      - generic [ref=e662]: "11"
+                    - button "12, Tuesday, May 2026. Past dates can’t be selected." [disabled] [ref=e663]:
+                      - generic [ref=e664]: "12"
+                    - button "13, Wednesday, May 2026. Past dates can’t be selected." [disabled] [ref=e665]:
+                      - generic [ref=e666]: "13"
+                    - button "14, Thursday, May 2026. Past dates can’t be selected." [disabled] [ref=e667]:
+                      - generic [ref=e668]: "14"
+                    - button "15, Friday, May 2026. Past dates can’t be selected." [disabled] [ref=e669]:
+                      - generic [ref=e670]: "15"
+                    - button "16, Saturday, May 2026. Past dates can’t be selected." [disabled] [ref=e671]:
+                      - generic [ref=e672]: "16"
+                    - button "17, Sunday, May 2026. Past dates can’t be selected." [disabled] [ref=e673]:
+                      - generic [ref=e674]: "17"
+                    - 'button "Today: Monday, May 18, 2026.Unavailable" [disabled] [ref=e675]':
+                      - generic [ref=e676]: "18"
+                    - button "19, Tuesday, May 2026. Unavailable" [disabled] [ref=e677]:
+                      - generic [ref=e678]: "19"
+                    - button "20, Wednesday, May 2026. Unavailable" [disabled] [ref=e679]:
+                      - generic [ref=e680]: "20"
+                    - button "21, Thursday, May 2026. Unavailable" [disabled] [ref=e681]:
+                      - generic [ref=e682]: "21"
+                    - button "22, Friday, May 2026. Unavailable" [disabled] [ref=e683]:
+                      - generic [ref=e684]: "22"
+                    - button "23, Saturday, May 2026. Unavailable" [disabled] [ref=e685]:
+                      - generic [ref=e686]: "23"
+                    - button "24, Sunday, May 2026. Unavailable" [disabled] [ref=e687]:
+                      - generic [ref=e688]: "24"
+                    - button "25, Monday, May 2026. Unavailable" [disabled] [ref=e689]:
+                      - generic [ref=e690]: "25"
+                    - button "26, Tuesday, May 2026. Unavailable" [disabled] [ref=e691]:
+                      - generic [ref=e692]: "26"
+                    - button "27, Wednesday, May 2026. Selected start date." [ref=e693] [cursor=pointer]:
+                      - generic [ref=e694]: "27"
+                    - button "28, Thursday, May 2026. Selected end date." [ref=e695] [cursor=pointer]:
+                      - generic [ref=e696]: "28"
+                    - button "29, Friday, May 2026. Unavailable" [disabled] [ref=e697]:
+                      - generic [ref=e698]: "29"
+                    - button "30, Saturday, May 2026. Unavailable" [disabled] [ref=e699]:
+                      - generic [ref=e700]: "30"
+                    - button "31, Sunday, May 2026. Available. Select as start date." [ref=e701] [cursor=pointer]:
+                      - generic [ref=e702]: "31"
+                  - generic [ref=e704]:
+                    - heading "June 2026" [level=3] [ref=e707]
+                    - button "1, Monday, June 2026. This day is only available for checkout." [ref=e708] [cursor=pointer]:
+                      - generic [ref=e709]: "1"
+                    - button "2, Tuesday, June 2026. Unavailable" [disabled] [ref=e710]:
+                      - generic [ref=e711]: "2"
+                    - button "3, Wednesday, June 2026. Available. Select as start date." [ref=e712] [cursor=pointer]:
+                      - generic [ref=e713]: "3"
+                    - button "4, Thursday, June 2026. This day is only available for checkout." [ref=e714] [cursor=pointer]:
+                      - generic [ref=e715]: "4"
+                    - button "5, Friday, June 2026. Unavailable" [disabled] [ref=e716]:
+                      - generic [ref=e717]: "5"
+                    - button "6, Saturday, June 2026. Unavailable" [disabled] [ref=e718]:
+                      - generic [ref=e719]: "6"
+                    - button "7, Sunday, June 2026. Unavailable" [disabled] [ref=e720]:
+                      - generic [ref=e721]: "7"
+                    - button "8, Monday, June 2026. Unavailable" [disabled] [ref=e722]:
+                      - generic [ref=e723]: "8"
+                    - button "9, Tuesday, June 2026. Available. Select as start date." [ref=e724] [cursor=pointer]:
+                      - generic [ref=e725]: "9"
+                    - button "10, Wednesday, June 2026. This day is only available for checkout." [ref=e726] [cursor=pointer]:
+                      - generic [ref=e727]: "10"
+                    - button "11, Thursday, June 2026. Unavailable" [disabled] [ref=e728]:
+                      - generic [ref=e729]: "11"
+                    - button "12, Friday, June 2026. Unavailable" [disabled] [ref=e730]:
+                      - generic [ref=e731]: "12"
+                    - button "13, Saturday, June 2026. Unavailable" [disabled] [ref=e732]:
+                      - generic [ref=e733]: "13"
+                    - button "14, Sunday, June 2026. Unavailable" [disabled] [ref=e734]:
+                      - generic [ref=e735]: "14"
+                    - button "15, Monday, June 2026. Unavailable" [disabled] [ref=e736]:
+                      - generic [ref=e737]: "15"
+                    - button "16, Tuesday, June 2026. Unavailable" [disabled] [ref=e738]:
+                      - generic [ref=e739]: "16"
+                    - button "17, Wednesday, June 2026. Unavailable" [disabled] [ref=e740]:
+                      - generic [ref=e741]: "17"
+                    - button "18, Thursday, June 2026. Unavailable" [disabled] [ref=e742]:
+                      - generic [ref=e743]: "18"
+                    - button "19, Friday, June 2026. Unavailable" [disabled] [ref=e744]:
+                      - generic [ref=e745]: "19"
+                    - button "20, Saturday, June 2026. Unavailable" [disabled] [ref=e746]:
+                      - generic [ref=e747]: "20"
+                    - button "21, Sunday, June 2026. Unavailable" [disabled] [ref=e748]:
+                      - generic [ref=e749]: "21"
+                    - button "22, Monday, June 2026. Available. Select as start date." [ref=e750] [cursor=pointer]:
+                      - generic [ref=e751]: "22"
+                    - button "23, Tuesday, June 2026. Available. Select as start date." [ref=e752] [cursor=pointer]:
+                      - generic [ref=e753]: "23"
+                    - button "24, Wednesday, June 2026. Available. Select as start date." [ref=e754] [cursor=pointer]:
+                      - generic [ref=e755]: "24"
+                    - button "25, Thursday, June 2026. This day is only available for checkout." [ref=e756] [cursor=pointer]:
+                      - generic [ref=e757]: "25"
+                    - button "26, Friday, June 2026. Unavailable" [disabled] [ref=e758]:
+                      - generic [ref=e759]: "26"
+                    - button "27, Saturday, June 2026. Unavailable" [disabled] [ref=e760]:
+                      - generic [ref=e761]: "27"
+                    - button "28, Sunday, June 2026. Unavailable" [disabled] [ref=e762]:
+                      - generic [ref=e763]: "28"
+                    - button "29, Monday, June 2026. Available. Select as start date." [ref=e764] [cursor=pointer]:
+                      - generic [ref=e765]: "29"
+                    - button "30, Tuesday, June 2026. This day is only available for checkout." [ref=e766] [cursor=pointer]:
+                      - generic [ref=e767]: "30"
+            - generic [ref=e768]:
+              - button "Open the keyboard shortcuts panel" [ref=e770] [cursor=pointer]:
+                - img [ref=e772]
+              - button "Clear dates" [ref=e775] [cursor=pointer]:
+                - generic [ref=e776]: Clear dates
+      - generic [ref=e162]:
+        - generic [ref=e778]:
+          - dialog [ref=e780]:
+            - generic [ref=e782]:
+              - img [ref=e786]
+              - generic [ref=e825]:
+                - generic [ref=e826]:
+                  - generic [ref=e827]: Your price is below the 60-day average
+                  - generic [ref=e828]: Your price is below the 60-day average
+                  - generic [ref=e829]: Your price is below the 60-day average
+                  - generic [ref=e830]: Your price is below the 60-day average
+                  - generic [ref=e831]: Your price is below the 60-day average
+                  - generic [ref=e832]: Your price is below the 60-day average
+                  - generic [ref=e833]: Your price is below the 60-day average
+                  - generic [ref=e834]: Your price is below the 60-day average
+                  - generic [ref=e835]: Your price is below the 60-day average
+                  - generic [ref=e836]: Your price is below the 60-day average
+                  - generic [ref=e837]: Your price is below the 60-day average
+                  - generic [ref=e838]: Your price is below the 60-day average
+                  - generic [ref=e839]: Your price is below the 60-day average
+                  - generic [ref=e840]: Your price is below the 60-day average
+                  - generic [ref=e841]: Your price is below the 60-day average
+                  - generic [ref=e842]: Your price is below the 60-day average
+                  - generic [ref=e843]: Your price is below the 60-day average
+                  - generic [ref=e844]: Your price is below the 60-day average
+                  - generic [ref=e845]: Your price is below the 60-day average
+                  - generic [ref=e846]: Your price is below the 60-day average
+                  - generic [ref=e847]: Your price is below the 60-day average
+                  - generic [ref=e848]: Your price is below the 60-day average
+                  - generic [ref=e849]: Your price is below the 60-day average
+                  - generic [ref=e850]: Your price is below the 60-day average
+                  - generic [ref=e851]: Your price is below the 60-day average
+                  - generic [ref=e852]: Your price is below the 60-day average
+                  - generic [ref=e853]: Your price is below the 60-day average
+                  - generic [ref=e854]: Your price is below the 60-day average
+                  - generic [ref=e855]: Your price is below the 60-day average
+                  - generic [ref=e856]: Your price is below the 60-day average
+                  - generic [ref=e857]: Your price is below the 60-day average
+                  - generic [ref=e858]: Your price is below the 60-day average
+                  - generic [ref=e859]: Your price is below the 60-day average
+                  - generic [ref=e860]: Your price is below the 60-day average
+                  - generic [ref=e861]: Your price is below the 60-day average
+                  - generic [ref=e862]: Your price is below the 60-day average
+                  - generic [ref=e863]: Your price is below the 60-day average
+                  - generic [ref=e864]: Your price is below the 60-day average
+                - generic [ref=e865]: Your price is below the 60-day average
+          - complementary "Booking Information" [ref=e866]:
+            - generic [ref=e868]:
+              - generic [ref=e869]:
+                - generic "$231 CAD total, originally $295 CAD" [ref=e874]:
+                  - generic [ref=e876]:
+                    - generic [ref=e877]: $295 CAD
+                    - button [ref=e880] [cursor=pointer]:
+                      - text: $231 CAD
+                      - generic [ref=e881]: total
+                      - generic [ref=e882]: Show price breakdown
+                - generic [ref=e886]:
+                  - 'button "Change dates; Check-in: 2026-05-27; Checkout: 2026-05-28" [ref=e890] [cursor=pointer]':
+                    - generic [ref=e891]:
+                      - generic: Check-in
+                      - generic [ref=e892]: 2026-05-27
+                    - generic [ref=e893]:
+                      - generic: Checkout
+                      - generic [ref=e894]: 2026-05-28
+                  - button "1 guest" [ref=e898]:
+                    - generic [ref=e899]:
+                      - generic: Guests
+                      - generic [ref=e901] [cursor=pointer]: 1 guest
+                    - generic:
+                      - img
+                - generic [ref=e903]: Free cancellation before May 26
+                - button "Reserve" [ref=e906] [cursor=pointer]:
+                  - generic [ref=e907]:
+                    - generic: Reserve
+              - generic [ref=e911]: You won't be charged yet
+        - button "Report this listing" [ref=e917] [cursor=pointer]:
+          - generic [ref=e919]:
+            - img [ref=e921]
+            - text: Report this listing
+    - generic [ref=e930]:
+      - generic [ref=e931]:
+        - heading "Rated 4.9 out of 5 from 103 reviews." [level=2] [ref=e936]:
+          - generic [ref=e937]: Rated 4.9 out of 5 from 103 reviews.
+          - generic [ref=e938]: "4.9"
+        - generic [ref=e941]: Guest favourite
+        - generic [ref=e942]: This home is a guest favourite based on ratings, reviews, and reliability
+        - button "How reviews work" [ref=e944] [cursor=pointer]:
+          - generic [ref=e945]:
+            - generic [ref=e946]: How reviews work
+            - generic [ref=e947]: How reviews work
+      - group [ref=e950]:
+        - generic [ref=e951]: 7 of 7 items showing
+        - generic [ref=e956]:
+          - generic [ref=e959]:
+            - heading "Overall rating" [level=3] [ref=e960]:
+              - generic [ref=e961]: Overall rating
+            - list [ref=e962]:
+              - listitem [ref=e963]:
+                - generic [ref=e965]: 5 stars, 93% of reviews
+                - generic [ref=e967]: "5"
+              - listitem [ref=e971]:
+                - generic [ref=e973]: 4 stars, 6% of reviews
+                - generic [ref=e975]: "4"
+              - listitem [ref=e979]:
+                - generic [ref=e981]: 3 stars, 0% of reviews
+                - generic [ref=e983]: "3"
+              - listitem [ref=e986]:
+                - generic [ref=e988]: 2 stars, 0% of reviews
+                - generic [ref=e990]: "2"
+              - listitem [ref=e993]:
+                - generic [ref=e995]: 1 stars, 1% of reviews
+                - generic [ref=e997]: "1"
+          - generic [ref=e1003]:
+            - heading "Rated 4.9 out of 5 stars for cleanliness" [level=3] [ref=e1007]
+            - generic [ref=e1008]:
+              - generic [ref=e1009]: Cleanliness
+              - generic [ref=e1010]: "4.9"
+            - img [ref=e1011]
+          - generic [ref=e1015]:
+            - heading "Rated 4.9 out of 5 stars for accuracy" [level=3] [ref=e1019]
+            - generic [ref=e1020]:
+              - generic [ref=e1021]: Accuracy
+              - generic [ref=e1022]: "4.9"
+            - img [ref=e1023]
+          - generic [ref=e1027]:
+            - heading "Rated 4.9 out of 5 stars for check-in" [level=3] [ref=e1031]
+            - generic [ref=e1032]:
+              - generic [ref=e1033]: Check-in
+              - generic [ref=e1034]: "4.9"
+            - img [ref=e1035]
+          - generic [ref=e1039]:
+            - heading "Rated 5.0 out of 5 stars for communication" [level=3] [ref=e1043]
+            - generic [ref=e1044]:
+              - generic [ref=e1045]: Communication
+              - generic [ref=e1046]: "5.0"
+            - img [ref=e1047]
+          - generic [ref=e1051]:
+            - heading "Rated 4.8 out of 5 stars for location" [level=3] [ref=e1055]
+            - generic [ref=e1056]:
+              - generic [ref=e1057]: Location
+              - generic [ref=e1058]: "4.8"
+            - img [ref=e1059]
+          - generic [ref=e1063]:
+            - heading "Rated 4.8 out of 5 stars for value" [level=3] [ref=e1067]
+            - generic [ref=e1068]:
+              - generic [ref=e1069]: Value
+              - generic [ref=e1070]: "4.8"
+            - img [ref=e1071]
+      - group "Guest reviews mention" [ref=e1075]:
+        - generic [ref=e1081]:
+          - button "Cleanliness 34" [ref=e1083] [cursor=pointer]:
+            - generic [ref=e1084]:
+              - img [ref=e1087]
+              - generic [ref=e1088]:
+                - generic [ref=e1089]: Cleanliness
+                - generic [ref=e1090]: "34"
+          - button "Indoor spaces 21" [ref=e1092] [cursor=pointer]:
+            - generic [ref=e1093]:
+              - img [ref=e1096]
+              - generic [ref=e1097]:
+                - generic [ref=e1098]: Indoor spaces
+                - generic [ref=e1099]: "21"
+          - button "Comfort 24" [ref=e1101] [cursor=pointer]:
+            - generic [ref=e1102]:
+              - img [ref=e1105]
+              - generic [ref=e1106]:
+                - generic [ref=e1107]: Comfort
+                - generic [ref=e1108]: "24"
+          - button "Location 35" [ref=e1110] [cursor=pointer]:
+            - generic [ref=e1111]:
+              - img [ref=e1114]
+              - generic [ref=e1115]:
+                - generic [ref=e1116]: Location
+                - generic [ref=e1117]: "35"
+          - button "Hospitality 55" [ref=e1119] [cursor=pointer]:
+            - generic [ref=e1120]:
+              - img [ref=e1123]
+              - generic [ref=e1124]:
+                - generic [ref=e1125]: Hospitality
+                - generic [ref=e1126]: "55"
+          - button "Decor 20" [ref=e1128] [cursor=pointer]:
+            - generic [ref=e1129]:
+              - img [ref=e1132]
+              - generic [ref=e1133]:
+                - generic [ref=e1134]: Decor
+                - generic [ref=e1135]: "20"
+          - button "Walkability 13" [ref=e1137] [cursor=pointer]:
+            - generic [ref=e1138]:
+              - img [ref=e1141]
+              - generic [ref=e1142]:
+                - generic [ref=e1143]: Walkability
+                - generic [ref=e1144]: "13"
+          - button "Parking 5" [ref=e1146] [cursor=pointer]:
+            - generic [ref=e1147]:
+              - img [ref=e1150]
+              - generic [ref=e1151]:
+                - generic [ref=e1152]: Parking
+                - generic [ref=e1153]: "5"
+          - button "Getting around 17" [ref=e1155] [cursor=pointer]:
+            - generic [ref=e1156]:
+              - img [ref=e1159]
+              - generic [ref=e1160]:
+                - generic [ref=e1161]: Getting around
+                - generic [ref=e1162]: "17"
+          - button "Accuracy 14" [ref=e1164] [cursor=pointer]:
+            - generic [ref=e1165]:
+              - img [ref=e1168]
+              - generic [ref=e1169]:
+                - generic [ref=e1170]: Accuracy
+                - generic [ref=e1171]: "14"
+        - button "Next" [ref=e1174] [cursor=pointer]:
+          - img [ref=e1176]
+      - list [ref=e1181]:
+        - listitem [ref=e1182]:
+          - generic [ref=e1183]:
+            - generic [ref=e1184]:
+              - generic [ref=e1186]:
+                - generic [ref=e1187]:
+                  - heading "Batia" [level=3] [ref=e1188]
+                  - generic [ref=e1189]: Fort Lauderdale, Florida
+                - link "Batia" [ref=e1191] [cursor=pointer]:
+                  - /url: /users/profile/1485076937535226442
+                  - img "Batia" [ref=e1193]
+              - generic [ref=e1194]:
+                - generic [ref=e1195]:
+                  - generic [ref=e1196]: Rating, 5 stars
+                  - img [ref=e1197]
+                  - img [ref=e1199]
+                  - img [ref=e1201]
+                  - img [ref=e1203]
+                  - img [ref=e1205]
+                - generic [ref=e1207]:
+                  - generic [ref=e1208]: ","
+                  - generic [ref=e1209]: ·
+                - generic [ref=e1210]: March 2026
+            - generic [ref=e1211]:
+              - generic [ref=e1214]: Our stay was wonderful! The host was extremely responsive and communicated clearly throughout the entire process, which made everything smooth and stress-free. The location was perfect—within walking distance to everything we needed, making it easy to explore and get around. The place itself was clean and comfortable. I would definitely recommend staying here and would happily return!
+              - button "Show more" [ref=e1216] [cursor=pointer]
+        - listitem [ref=e1217]:
+          - generic [ref=e1218]:
+            - generic [ref=e1219]:
+              - generic [ref=e1221]:
+                - generic [ref=e1222]:
+                  - heading "Timo" [level=3] [ref=e1223]
+                  - generic [ref=e1224]: 8 years on Airbnb
+                - link "Timo" [ref=e1226] [cursor=pointer]:
+                  - /url: /users/profile/1474146444027020921
+                  - img "Timo" [ref=e1228]
+              - generic [ref=e1229]:
+                - generic [ref=e1230]:
+                  - generic [ref=e1231]: Rating, 5 stars
+                  - img [ref=e1232]
+                  - img [ref=e1234]
+                  - img [ref=e1236]
+                  - img [ref=e1238]
+                  - img [ref=e1240]
+                - generic [ref=e1242]:
+                  - generic [ref=e1243]: ","
+                  - generic [ref=e1244]: ·
+                - generic [ref=e1245]: 2 weeks ago
+            - generic [ref=e1246]:
+              - generic [ref=e1250]:
+                - text: This is a deluxe apartment with very modern amenities. We loved in particular the spacious bathroom. Stayed for only 1 night, but we would book again any time.
+                - text: If you come by car as we did, it might be a little challenging to find a parking lot nearby.
+              - button "Show more" [ref=e1252] [cursor=pointer]
+        - listitem [ref=e1253]:
+          - generic [ref=e1254]:
+            - generic [ref=e1255]:
+              - generic [ref=e1257]:
+                - generic [ref=e1258]:
+                  - heading "Karin" [level=3] [ref=e1259]
+                  - generic [ref=e1260]: Boston, Massachusetts
+                - link "Karin" [ref=e1262] [cursor=pointer]:
+                  - /url: /users/profile/1502803290256293605
+                  - img "Karin" [ref=e1264]
+              - generic [ref=e1265]:
+                - generic [ref=e1266]:
+                  - generic [ref=e1267]: Rating, 5 stars
+                  - img [ref=e1268]
+                  - img [ref=e1270]
+                  - img [ref=e1272]
+                  - img [ref=e1274]
+                  - img [ref=e1276]
+                - generic [ref=e1278]:
+                  - generic [ref=e1279]: ","
+                  - generic [ref=e1280]: ·
+                - generic [ref=e1281]: March 2026
+                - generic [ref=e1282]:
+                  - generic [ref=e1283]: ","
+                  - generic [ref=e1284]: ·
+                - generic [ref=e1285]: Group trip
+            - generic [ref=e1286]:
+              - generic [ref=e1289]: Loved our stay in Valencia! We were here for Fallas and enjoyed how easy it was to walk around the entire city to enjoy the festivities and delicious food! Beautiful airbnb with great set up, decor and amenities!
+              - button "Show more" [ref=e1291] [cursor=pointer]
+        - listitem [ref=e1292]:
+          - generic [ref=e1293]:
+            - generic [ref=e1294]:
+              - generic [ref=e1296]:
+                - generic [ref=e1297]:
+                  - heading "Adam" [level=3] [ref=e1298]
+                  - generic [ref=e1299]: Norfolk, Virginia
+                - link "Adam" [ref=e1301] [cursor=pointer]:
+                  - /url: /users/profile/1495398761488134685
+                  - img "Adam" [ref=e1303]
+              - generic [ref=e1304]:
+                - generic [ref=e1305]:
+                  - generic [ref=e1306]: Rating, 5 stars
+                  - img [ref=e1307]
+                  - img [ref=e1309]
+                  - img [ref=e1311]
+                  - img [ref=e1313]
+                  - img [ref=e1315]
+                - generic [ref=e1317]:
+                  - generic [ref=e1318]: ","
+                  - generic [ref=e1319]: ·
+                - generic [ref=e1320]: March 2026
+            - generic [ref=e1321]:
+              - generic [ref=e1324]: This place was great! The location was equidistant to wherever you’d like to visit whether it be the ciutat de las Artes y Ciencias or downtown. I thought the place itself was clean and comfortable, make sure to specify if you need to utilize the pullout couch and it will be prepared for you! We were initially concerned about the check-in time but Ruben was more than accommodating so that it was not an issue. I’d recommend this place to anyone interested in visiting Valencia!
+              - button "Show more" [ref=e1326] [cursor=pointer]
+        - listitem [ref=e1327]:
+          - generic [ref=e1328]:
+            - generic [ref=e1329]:
+              - generic [ref=e1331]:
+                - generic [ref=e1332]:
+                  - heading "Hadeed" [level=3] [ref=e1333]
+                  - generic [ref=e1334]: 7 months on Airbnb
+                - link "Hadeed" [ref=e1336] [cursor=pointer]:
+                  - /url: /users/profile/1530674000256905984
+                  - img "Hadeed" [ref=e1338]
+              - generic [ref=e1339]:
+                - generic [ref=e1340]:
+                  - generic [ref=e1341]: Rating, 5 stars
+                  - img [ref=e1342]
+                  - img [ref=e1344]
+                  - img [ref=e1346]
+                  - img [ref=e1348]
+                  - img [ref=e1350]
+                - generic [ref=e1352]:
+                  - generic [ref=e1353]: ","
+                  - generic [ref=e1354]: ·
+                - generic [ref=e1355]: February 2026
+            - generic [ref=e1356]:
+              - generic [ref=e1360]:
+                - text: Immaculate apartment, very modern and nice atmosphere.
+                - text: The host was very nice and acommodating. He was easy to communicate with, just a very nice guy in general.
+                - text: The air purifier/humidifier was amazing, in addition to air conditioning. Two flat screen TVs and free Netflix was also great.
+                - text: We also got a free water bottle and shower supplies.
+                - text: All in all a great stay, definetely recommend it!
+              - button "Show more" [ref=e1362] [cursor=pointer]
+        - listitem [ref=e1363]:
+          - generic [ref=e1364]:
+            - generic [ref=e1365]:
+              - generic [ref=e1367]:
+                - generic [ref=e1368]:
+                  - heading "Tristan" [level=3] [ref=e1369]
+                  - generic [ref=e1370]: 5 months on Airbnb
+                - link "Tristan" [ref=e1372] [cursor=pointer]:
+                  - /url: /users/profile/1562993527090881917
+                  - img "Tristan" [ref=e1374]
+              - generic [ref=e1375]:
+                - generic [ref=e1376]:
+                  - generic [ref=e1377]: Rating, 5 stars
+                  - img [ref=e1378]
+                  - img [ref=e1380]
+                  - img [ref=e1382]
+                  - img [ref=e1384]
+                  - img [ref=e1386]
+                - generic [ref=e1388]:
+                  - generic [ref=e1389]: ","
+                  - generic [ref=e1390]: ·
+                - generic [ref=e1391]: December 2025
+            - generic [ref=e1392]:
+              - generic [ref=e1395]: Beautiful accommodation. Nice comfortable beds, clean bathrooms and kitchen, and well decorated. Only curtains between bedroom and living area. A bit farther from main city than expected but has a bus station outside. Easy check in and check out, but 5 pm was quite late to check in and the cleaner was only just leaving right after 5. But very clean and well kept.
+              - button "Show more" [ref=e1397] [cursor=pointer]
+      - button "Show all 103 reviews, Opens modal dialogue" [ref=e1400] [cursor=pointer]:
+        - generic [ref=e1401]: Show all 103 reviews
+    - generic [ref=e1408]:
+      - heading "Where you’ll be" [level=2] [ref=e1411]
+      - generic [ref=e1412]: Valencia, Comunidad Valenciana, Spain
+    - generic [ref=e1422]:
+      - heading "Meet your host" [level=2] [ref=e1424]
+      - generic [ref=e1427]:
+        - generic [ref=e1428]:
+          - generic [ref=e1429]:
+            - generic [ref=e1430]:
+              - generic [ref=e1431]:
+                - generic [ref=e1432]:
+                  - img [ref=e1436]
+                  - img "Identity verified" [ref=e1438]:
+                    - img [ref=e1439]
+                - generic [ref=e1441]:
+                  - heading "Ruben" [level=2] [ref=e1443]:
+                    - generic [ref=e1445]: Ruben
+                  - generic [ref=e1446]:
+                    - img [ref=e1447]
+                    - generic [ref=e1449]: Superhost
+              - group [ref=e1450]:
+                - generic [ref=e1451]:
+                  - generic [ref=e1452]:
+                    - generic [ref=e1453]: 152 reviews
+                    - generic [ref=e1454]:
+                      - generic [ref=e1455]: "152"
+                      - generic [ref=e1456]: Reviews
+                  - separator [ref=e1457]
+                  - generic [ref=e1458]:
+                    - generic [ref=e1459]: 4.74 out of 5 average rating
+                    - generic [ref=e1460]:
+                      - generic [ref=e1462]:
+                        - text: "4.74"
+                        - img [ref=e1463]
+                      - generic [ref=e1465]: Rating
+                  - separator [ref=e1466]
+                  - generic [ref=e1467]:
+                    - generic [ref=e1468]: 3 years of hosting
+                    - generic [ref=e1469]:
+                      - generic [ref=e1470]: "3"
+                      - generic [ref=e1471]: Years hosting
+            - link "Go to Host full profile" [ref=e1473] [cursor=pointer]:
+              - /url: /users/profile/1468711593623026311?previous_page_name=PdpHomeMarketplace
+          - generic [ref=e1475]:
+            - generic [ref=e1476]:
+              - generic [ref=e1477]:
+                - img [ref=e1478]
+                - generic [ref=e1480]: Born in the 80s
+              - generic [ref=e1481]:
+                - img [ref=e1482]
+                - generic [ref=e1484]: "My work: Entrepreneurs."
+            - generic [ref=e1487]: Hi everyone. We are Amparo and Ruben, we love to travel and meet new people. Here you have our house to enjoy a good accommodation and get to know our beautiful city. WE LOOK FORWARD TO SEEING you!!!
+        - generic [ref=e1488]:
+          - generic [ref=e1490]:
+            - heading "Ruben is a Superhost" [level=3] [ref=e1492]
+            - text: Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+          - generic [ref=e1493]:
+            - heading "Co-Hosts" [level=3] [ref=e1494]:
+              - generic [ref=e1495]: Co-Hosts
+            - list [ref=e1496]:
+              - listitem [ref=e1497]:
+                - link "Learn more about the host, Maicol Stevan." [ref=e1499] [cursor=pointer]:
+                  - /url: /users/profile/1470187289059467377?previous_page_name=PdpHomeMarketplace
+                  - img "Learn more about the host, Maicol Stevan." [ref=e1501]
+                - generic [ref=e1502]: Maicol Stevan
+          - generic [ref=e1503]:
+            - generic [ref=e1504]:
+              - heading "Host details" [level=3] [ref=e1506]
+              - generic [ref=e1507]:
+                - generic [ref=e1508]: "Response rate: 100%"
+                - generic [ref=e1509]: Responds within an hour
+            - link "Message host" [ref=e1511] [cursor=pointer]:
+              - /url: /contact_host/1353198002579642941/send_message?check_in=2026-05-27&check_out=2026-05-28
+              - generic [ref=e1512]: Message host
+            - generic [ref=e1515]:
+              - img [ref=e1517]
+              - text: To help protect your payment, always use Airbnb to send money and communicate with hosts.
+    - generic [ref=e1530]:
+      - heading "Things to know" [level=2] [ref=e1531]:
+        - generic [ref=e1532]: Things to know
+      - generic [ref=e1534]:
+        - generic [ref=e1536]:
+          - img [ref=e1538]
+          - generic [ref=e1540]:
+            - generic [ref=e1541]: Cancellation policy
+            - generic [ref=e1542]:
+              - generic [ref=e1543]: Free cancellation before May 26. After that, the reservation is non-refundable.
+              - generic [ref=e1544]: Review this host’s full policy for details.
+            - button "Learn more" [ref=e1546] [cursor=pointer]
+        - generic "Learn more about House rules" [ref=e1547]:
+          - generic [ref=e1548]:
+            - img [ref=e1550]
+            - generic [ref=e1552]:
+              - generic [ref=e1553]: House rules
+              - generic [ref=e1554]:
+                - generic [ref=e1555]: Check-in after 5:00 p.m.
+                - generic [ref=e1556]: Checkout before 11:00 a.m.
+                - generic [ref=e1557]: 5 guests maximum
+              - button "Learn more about House rules" [ref=e1559] [cursor=pointer]: Learn more
+        - generic [ref=e1561]:
+          - img [ref=e1563]
+          - generic [ref=e1565]:
+            - generic [ref=e1566]: Safety & property
+            - generic [ref=e1567]:
+              - generic [ref=e1568]: Carbon monoxide alarm not reported
+              - generic [ref=e1569]: Smoke alarm not reported
+            - button "Learn more" [ref=e1571] [cursor=pointer]
+    - generic [ref=e1576]:
+      - navigation "Breadcrumbs" [ref=e1580]:
+        - list [ref=e1581]:
+          - listitem [ref=e1582]:
+            - link "Airbnb" [ref=e1583] [cursor=pointer]:
+              - /url: /
+            - generic [ref=e1584]:
+              - generic:
+                - img
+          - listitem [ref=e1585]:
+            - link "Spain" [ref=e1586] [cursor=pointer]:
+              - /url: /spain/stays
+            - generic [ref=e1587]:
+              - generic:
+                - img
+          - listitem [ref=e1588]:
+            - link "Valencia" [ref=e1589] [cursor=pointer]:
+              - /url: /valencian-community-spain/stays
+            - generic [ref=e1590]:
+              - generic:
+                - img
+          - listitem [ref=e1591]:
+            - link "Valencia" [ref=e1592] [cursor=pointer]:
+              - /url: /valencia-region-spain/stays
+            - generic [ref=e1593]:
+              - generic:
+                - img
+          - listitem [ref=e1594]:
+            - link "Valencia" [ref=e1595] [cursor=pointer]:
+              - /url: /valencia-spain/stays
+      - generic [ref=e1597]:
+        - generic [ref=e1598]:
+          - heading "Explore other options in and around Valencia" [level=2] [ref=e1602]
+          - list [ref=e1603]:
+            - listitem [ref=e1604]:
+              - link "Barcelona Vacation rentals" [ref=e1605] [cursor=pointer]:
+                - /url: /barcelona-spain/stays
+                - generic [ref=e1606]: Barcelona
+                - generic [ref=e1607]: Vacation rentals
+            - listitem [ref=e1608]:
+              - link "Madrid Vacation rentals" [ref=e1609] [cursor=pointer]:
+                - /url: /madrid-spain/stays
+                - generic [ref=e1610]: Madrid
+                - generic [ref=e1611]: Vacation rentals
+            - listitem [ref=e1612]:
+              - link "Málaga Vacation rentals" [ref=e1613] [cursor=pointer]:
+                - /url: /malaga-spain/stays
+                - generic [ref=e1614]: Málaga
+                - generic [ref=e1615]: Vacation rentals
+            - listitem [ref=e1616]:
+              - link "Alicante Vacation rentals" [ref=e1617] [cursor=pointer]:
+                - /url: /alicante-spain/stays
+                - generic [ref=e1618]: Alicante
+                - generic [ref=e1619]: Vacation rentals
+            - listitem [ref=e1620]:
+              - link "Costa Blanca Vacation rentals" [ref=e1621] [cursor=pointer]:
+                - /url: /costa-blanca-spain/stays
+                - generic [ref=e1622]: Costa Blanca
+                - generic [ref=e1623]: Vacation rentals
+            - listitem [ref=e1624]:
+              - link "Palma Vacation rentals" [ref=e1625] [cursor=pointer]:
+                - /url: /palma-spain/stays
+                - generic [ref=e1626]: Palma
+                - generic [ref=e1627]: Vacation rentals
+            - listitem [ref=e1628]:
+              - link "Costa Brava Vacation rentals" [ref=e1629] [cursor=pointer]:
+                - /url: /costa-brava-spain/stays
+                - generic [ref=e1630]: Costa Brava
+                - generic [ref=e1631]: Vacation rentals
+            - listitem [ref=e1632]:
+              - link "Granada Vacation rentals" [ref=e1633] [cursor=pointer]:
+                - /url: /granada-spain/stays
+                - generic [ref=e1634]: Granada
+                - generic [ref=e1635]: Vacation rentals
+            - listitem [ref=e1636]:
+              - link "Minorca Vacation rentals" [ref=e1637] [cursor=pointer]:
+                - /url: /menorca-spain/stays
+                - generic [ref=e1638]: Minorca
+                - generic [ref=e1639]: Vacation rentals
+        - generic [ref=e1641]:
+          - heading "Other types of stays on Airbnb" [level=3] [ref=e1643]
+          - list [ref=e1644]:
+            - listitem [ref=e1645]:
+              - link "Valencia vacation rentals" [ref=e1646] [cursor=pointer]:
+                - /url: /valencia-spain/stays
+                - generic [ref=e1647]: Valencia vacation rentals
+            - listitem [ref=e1648]:
+              - link "Valencia monthly stays" [ref=e1649] [cursor=pointer]:
+                - /url: /valencia-spain/stays/monthly
+                - generic [ref=e1650]: Valencia monthly stays
+            - listitem [ref=e1651]:
+              - link "Vacation rentals with outdoor seating in Valencia" [ref=e1652] [cursor=pointer]:
+                - /url: /valencia-spain/stays/outdoor-seating
+                - generic [ref=e1653]: Vacation rentals with outdoor seating in Valencia
+            - listitem [ref=e1654]:
+              - link "Vacation rentals with outdoor seating in Valencia" [ref=e1655] [cursor=pointer]:
+                - /url: /valencia-region-spain/stays/outdoor-seating
+                - generic [ref=e1656]: Vacation rentals with outdoor seating in Valencia
+            - listitem [ref=e1657]:
+              - link "Family-friendly vacation rentals in Valencia" [ref=e1658] [cursor=pointer]:
+                - /url: /valencia-region-spain/stays/family-friendly
+                - generic [ref=e1659]: Family-friendly vacation rentals in Valencia
+            - listitem [ref=e1660]:
+              - link "Pet-friendly vacation rentals in Valencia" [ref=e1661] [cursor=pointer]:
+                - /url: /valencia-region-spain/stays/pet-friendly
+                - generic [ref=e1662]: Pet-friendly vacation rentals in Valencia
+            - listitem [ref=e1663]:
+              - link "Apartment vacation rentals in Valencia" [ref=e1664] [cursor=pointer]:
+                - /url: /valencia-region-spain/stays/apartments
+                - generic [ref=e1665]: Apartment vacation rentals in Valencia
+            - listitem [ref=e1666]:
+              - link "Family-friendly vacation rentals in Valencia" [ref=e1667] [cursor=pointer]:
+                - /url: /valencian-community-spain/stays/family-friendly
+                - generic [ref=e1668]: Family-friendly vacation rentals in Valencia
+            - listitem [ref=e1669]:
+              - link "Pet-friendly vacation rentals in Valencia" [ref=e1670] [cursor=pointer]:
+                - /url: /valencian-community-spain/stays/pet-friendly
+                - generic [ref=e1671]: Pet-friendly vacation rentals in Valencia

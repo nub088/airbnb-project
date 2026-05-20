@@ -1,0 +1,27 @@
+# Secrets
+.env
+credentials.json
+token.json
+*.key
+
+# Browser profile (contains your Airbnb session cookies — never commit)
+browser-profile/
+
+# Output data (may contain PII — keep local only)
+results.csv
+
+# Regenerable intermediate artifacts
+.tmp/
+.playwright-mcp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.python-version
+
+# Editor / OS noise
+.DS_Store
+.idea/
+.vscode/
