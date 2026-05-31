@@ -1,97 +1,97 @@
 # Accommodation Finder
 
-Hobby project: given a short-term rental listing URL or ID, find the operator behind the listing and surface direct contact information so you can book without the platform.
+A little project about a fun problem: given a short-term rental listing, can you figure out
+who actually operates it just from the photos? Turns out you often can. The same photos a
+management company posts on a booking platform usually show up on their own website too, so
+if you reverse-image-search a listing's pictures and see where else they land, the operator
+tends to fall out of it.
 
-**How it works:**
-1. Download photos from the listing
-2. Reverse-image-search each photo on Yandex Images and Google Lens
-3. Cross-platform hits expose the operator name
-4. Scrape the operator's page for phone, email, and a direct booking link
-5. Estimate the direct price (skipping platform fees) and write a negotiation note
-6. Append everything to `results.csv`
+This automates that. Point it at a listing, it pulls the photos, runs them through a couple
+of reverse-image-search engines, correlates the matches, and tells you which company is
+behind the unit — with the links it used to decide, so you can check its work.
 
-## Architecture
+## How it works
 
-WAT framework (Workflows → Agent → Tools):
+Give it a listing URL or ID and it:
+
+1. Downloads the listing's photos.
+2. Reverse-image-searches each one on **Yandex Images** and **Google Lens**.
+3. Looks at where the same photos turn up elsewhere and works out the operating company from
+   the overlap.
+4. Scrapes that operator's own site for their contact details.
+5. Writes a row per listing to `results.csv`, including the evidence links.
+
+## How it's built
+
+It uses the WAT layout I like — plain-English workflows describe the steps, and the actual
+work happens in small Python scripts:
 
 ```
-workflows/   — Markdown SOPs describing each step
-tools/       — Deterministic Python scripts (download, CSV append)
-run.py       — Standalone orchestrator; no Claude needed
-.tmp/        — Working files per listing (photos, intermediate JSON)
-browser-profile/  — Firefox profile with login session persisted
-results.csv  — Append-only output
+workflows/        — the steps, written out in markdown
+tools/            — the scripts (download photos, run searches, append CSV)
+run.py            — runs the whole thing end to end, no model needed
+.tmp/             — per-listing scratch space (photos, intermediate JSON)
+browser-profile/  — a Firefox profile that keeps you logged in between runs
+results.csv       — the output, appended to
 ```
+
+`run.py` just chains the tools in order, so a run is reproducible and I can re-run a single
+piece without redoing everything.
 
 ## Setup
-
-### 1. Install dependencies
 
 ```bash
 pip install playwright requests
 playwright install firefox
 ```
 
-### 2. Seed the Firefox profile (one-time)
+Then seed the browser profile once:
 
 ```bash
 ./tools/setup_firefox_profile.sh
 ```
 
-This opens Firefox with the persistent profile. Log into your account on the source platform, dismiss any popups, then close the window. The session is saved to `./browser-profile/` and reused on every run.
+That opens Firefox with a persistent profile — log in, close the window, and the session
+sticks around in `./browser-profile/` for every future run. Worth also logging into a Google
+account in that same window; it cuts down on Google Lens captchas a lot.
 
-For Google Lens: also log into a Google account in the same window — this dramatically reduces captcha frequency.
-
-## Usage
+## Using it
 
 ```bash
-# Single listing
+# one listing
 python run.py --listing-id 1353198002579642941
 
-# Top 10 listings from a search URL
+# top 10 from a search page
 python run.py --search-url "<search-url>" --top-n 10
 
-# Skip Google Lens entirely (faster, no captcha risk)
+# skip Google Lens (faster, dodges the captchas)
 python run.py --search-url "..." --yandex-only
 
-# Re-run contact detection on photos you already have
+# re-run on photos you already pulled
 python run.py --listing-id 1353198002579642941 --skip-download
 
-# Headless (no browser window)
+# no browser window
 python run.py --listing-id 1353198002579642941 --headless
 ```
 
-Results land in `results.csv` and `.tmp/<listing-id>/result.json`.
+Results go to `results.csv` and `.tmp/<listing-id>/result.json`. The main columns are the
+resolved `operator`, its `operator_phone` / `operator_email`, a `managed_yn` flag
+(MANAGED / OWNER / UNKNOWN), and `evidence_urls` — the cross-platform hits that drove the
+match, so you can sanity-check it yourself.
 
-## Output columns
+## The annoying parts
 
-| Column | Description |
-|---|---|
-| `listing_id` / `listing_url` | Source listing |
-| `listed_price_eur` | Nightly price scraped from search card |
-| `cheapest_cross_platform_price_eur` | Price found on the cross-platform hit |
-| `estimated_direct_price_eur` | `cross_platform × 0.92` (or `listed × 0.82` if no cross-platform baseline) |
-| `managed_yn` | MANAGED / OWNER / UNKNOWN |
-| `operator` | Company name (e.g. "Travel Habitat") |
-| `operator_phone` / `operator_email` | Direct contact |
-| `direct_booking_url` | Specific unit page on the operator's own site |
-| `negotiation_notes` | One-line action ("Call +34 960 660 456, ref unit VA077-2. Est. direct €64 vs listed €80.") |
-| `evidence_urls` | Cross-platform hit URLs that triggered the identification |
+- **Google Lens** doesn't love being driven by Playwright and will throw a captcha now and
+  then. When it does, the script stops and waits for you to solve it in the window, then
+  carries on. Use `--yandex-only` if you're running it unattended — Yandex behaves.
+- Operator detection leans on a keyword list, so brands it doesn't recognize come back as
+  `UNKNOWN`. That's what `evidence_urls` is for — open them and it's usually obvious.
+- Photos load as you scroll, so really big listings (30+ photos) might not all load in the
+  scroll loop. Bump `--photos` if you need to go deeper.
 
-## Captcha handling
+## Test listing
 
-- **Yandex**: anti-bot tolerant for one-off uploads — runs clean.
-- **Google Lens**: intermittently challenges Playwright-driven browsers. When detected, the script pauses and asks you to solve it in the browser window, then press Enter. Use `--yandex-only` to skip Lens entirely if you're running unattended.
-
-## Known limitations
-
-- Operator brand detection (`managed_yn`) uses a keyword list. Unknown brands will come through as `UNKNOWN` — open `evidence_urls` manually to check.
-- The direct-price formula is a rough estimate (platform fees vary by listing and region).
-- The photo lazy-loader is scroll-dependent; very large listings (30+ photos) may not fully load in the scroll loop. Increase `--photos` only if you need deeper sampling.
-
-## Test fixture
-
-Listing `1353198002579642941` — Valencia "Green & Natural Apartment" — is the canonical test target.
-Photo 3 and 4 are the most distinctive (exterior/kitchen); photo 1 is a stock architecture shot shared across multiple listings and portfolios.
-
-Expected result: `MANAGED`, operator = Travel Habitat, phone = +34 960 660 456, direct unit = VA077-2.
+`1353198002579642941` — the Valencia "Green & Natural Apartment" — is my go-to test. Photos 3
+and 4 are the distinctive ones; photo 1 is a stock architecture shot that shows up on tons of
+listings, which makes it a good check that it's not throwing false positives. It should come
+back as `MANAGED`, operator Travel Habitat, unit VA077-2.
